@@ -16,76 +16,56 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
-<div align="center">
-
-```typescript
-const developer = {
-  name: "Kemisetty Prem Srinivas",
-  title: "Full-Stack Developer 💻",
-  education: "Computer Science Engineering 🎓",
-  location: "India 🇮🇳",
-  
-  currentlyWorkingOn: [
-    "🛡️ SafeGate - Enterprise Security Platform",
-    "🏗️ Mastering System Design & Architecture", 
-    "☁️ Exploring Cloud Technologies & DevOps"
-  ],
-  
-  passionateAbout: ["🌐 Web3", "🤖 AI/ML", "🔓 Open Source", "💡 Tech Innovation"],
-  
-  codePhilosophy: () => {
-    return "✨ Code with purpose, build with passion, innovate with vision ✨";
-  },
-  
-  dailyRoutine: {
-    morning: "☕ Coffee + Code",
-    afternoon: "🚀 Build & Deploy",
-    evening: "📚 Learn & Explore",
-    night: "💭 Dream in Code"
-  },
-  
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-
-console.log(developer.codePhilosophy());
-// Output: ✨ Code with purpose, build with passion, innovate with vision ✨
-```
-
-<br>
-
 <table align="center">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**🎨 Code Highlights:**
-- <img src="https://img.shields.io/badge/Name-Kemisetty%20Prem%20Srinivas-FF6B6B?style=flat-square" />
-- <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer%20💻-4ECDC4?style=flat-square" />
-- <img src="https://img.shields.io/badge/Education-CS%20Engineering%20🎓-95E1D3?style=flat-square" />
-- <img src="https://img.shields.io/badge/Location-India%20🇮🇳-F38181?style=flat-square" />
+**👨‍💻 Who I Am**
+
+Full-Stack Developer and CS Engineering student passionate about building impactful digital solutions. I turn complex problems into elegant, scalable applications.
+
+**📍 Location:** India 🇮🇳  
+**🎓 Education:** Computer Science Engineering  
+**💼 Focus:** Enterprise Solutions & Modern Web Tech
+
+**✨ Philosophy:**  
+*"Code with purpose, build with passion, innovate with vision"*
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**🚀 Currently Working On:**
-- <img src="https://img.shields.io/badge/🛡️-SafeGate%20Platform-AA96DA?style=flat-square" />
-- <img src="https://img.shields.io/badge/🏗️-System%20Design-FCBAD3?style=flat-square" />
-- <img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-FFFFD2?style=flat-square" />
+**🚀 Currently Working On**
+
+- 🛡️ **SafeGate** - Enterprise Security Platform
+- 🏗️ **System Design** & Architecture Mastery
+- ☁️ **Cloud Technologies** & DevOps Exploration
+
+**💡 Passionate About**
+
+🌐 Web3 • 🤖 AI/ML • 🔓 Open Source • 💡 Innovation
+
+**🎯 2024 Goals**
+
+✅ Master System Design  
+✅ Contribute to Open Source  
+✅ Build Production-Ready Apps
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <div align="center">
 
-### 🎯 **Quick Stats About Me**
+### 🛠️ **Tech Stack at a Glance**
 
-| 🎨 **Creating** | 🌱 **Learning** | 💡 **Exploring** |
-|:---:|:---:|:---:|
-| Enterprise Solutions | System Architecture | Web3 & Blockchain |
-| Scalable Web Apps | Cloud Technologies | AI Integration |
-| Modern UI/UX | Design Patterns | DevOps Practices |
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
