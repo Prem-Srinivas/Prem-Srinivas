@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://prem-srinivas.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/prem-srinivas-3176272b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pream4227@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -16,26 +16,54 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
+<div align="center">
+
 ```typescript
-class Developer {
-  name: string = "Kemisetty Prem Srinivas";
-  role: string = "Full-Stack Developer";
-  education: string = "Computer Science Engineering";
-  location: string = "India 🇮🇳";
+const developer = {
+  name: "Kemisetty Prem Srinivas",
+  title: "Full-Stack Developer 💻",
+  education: "Computer Science Engineering 🎓",
+  location: "India 🇮🇳",
   
-  currentFocus: string[] = [
-    "Building SafeGate - Enterprise Security Platform",
-    "Mastering System Design & Architecture",
-    "Exploring Cloud Technologies & DevOps"
-  ];
+  currentlyWorkingOn: [
+    "🛡️ SafeGate - Enterprise Security Platform",
+    "🏗️ Mastering System Design & Architecture", 
+    "☁️ Exploring Cloud Technologies & DevOps"
+  ],
   
-  interests: string[] = ["Web3", "AI/ML", "Open Source", "Tech Innovation"];
+  passionateAbout: ["🌐 Web3", "🤖 AI/ML", "🔓 Open Source", "💡 Tech Innovation"],
   
-  lifePhilosophy(): string {
-    return "Code with purpose, build with passion, innovate with vision";
-  }
-}
+  codePhilosophy: () => {
+    return "✨ Code with purpose, build with passion, innovate with vision ✨";
+  },
+  
+  dailyRoutine: {
+    morning: "☕ Coffee + Code",
+    afternoon: "🚀 Build & Deploy",
+    evening: "📚 Learn & Explore",
+    night: "💭 Dream in Code"
+  },
+  
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+
+console.log(developer.codePhilosophy());
+// Output: ✨ Code with purpose, build with passion, innovate with vision ✨
 ```
+
+</div>
+
+<div align="center">
+
+### 🎯 **Quick Stats About Me**
+
+| 🎨 **Creating** | 🌱 **Learning** | 💡 **Exploring** |
+|:---:|:---:|:---:|
+| Enterprise Solutions | System Architecture | Web3 & Blockchain |
+| Scalable Web Apps | Cloud Technologies | AI Integration |
+| Modern UI/UX | Design Patterns | DevOps Practices |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -273,8 +301,8 @@ Comprehensive business operations system streamlining workflows, employee manage
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&labelColor=000000)](https://prem-srinivas.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-srinivas-3176272b4)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pream4227@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
 
 </div>
