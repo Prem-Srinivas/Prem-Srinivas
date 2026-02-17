@@ -16,39 +16,61 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+Scalable+%26+Impactful+Solutions;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+
+</div>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**👨‍💻 Who I Am**
+### 👨‍💻 **Who I Am**
+
+<img src="https://img.shields.io/badge/Full--Stack-Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/CS-Engineering-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
 Full-Stack Developer and CS Engineering student passionate about building impactful digital solutions. I turn complex problems into elegant, scalable applications.
 
-**📍 Location:** India 🇮🇳  
-**🎓 Education:** Computer Science Engineering  
-**💼 Focus:** Enterprise Solutions & Modern Web Tech
+**📍 Location:** <img src="https://img.shields.io/badge/India-🇮🇳-FF9933?style=flat-square" />  
+**🎓 Education:** <img src="https://img.shields.io/badge/Computer_Science-Engineering-138808?style=flat-square" />  
+**💼 Focus:** <img src="https://img.shields.io/badge/Enterprise_Solutions-Modern_Web-000080?style=flat-square" />
 
-**✨ Philosophy:**  
-*"Code with purpose, build with passion, innovate with vision"*
+<br>
+
+<div align="center">
+
+**✨ Philosophy**  
+<img src="https://img.shields.io/badge/Code_with_Purpose-Build_with_Passion-gradient?style=for-the-badge&logo=sparkles&logoColor=white&color=FF6B6B" />
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 Currently Working On**
+### 🚀 **Currently Working On**
 
-- 🛡️ **SafeGate** - Enterprise Security Platform
-- 🏗️ **System Design** & Architecture Mastery
-- ☁️ **Cloud Technologies** & DevOps Exploration
+<img src="https://img.shields.io/badge/🛡️_SafeGate-Enterprise_Security-AA96DA?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/🏗️_System_Design-Architecture_Mastery-FCBAD3?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/☁️_Cloud-DevOps_Exploration-95E1D3?style=for-the-badge" />
 
-**💡 Passionate About**
+<br>
 
-🌐 Web3 • 🤖 AI/ML • 🔓 Open Source • 💡 Innovation
+### 💡 **Passionate About**
 
-**🎯 2024 Goals**
+<img src="https://img.shields.io/badge/🌐-Web3-F85D7F?style=flat-square" />
+<img src="https://img.shields.io/badge/🤖-AI/ML-F8D866?style=flat-square" />
+<img src="https://img.shields.io/badge/🔓-Open_Source-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/💡-Innovation-FF6B6B?style=flat-square" />
 
-✅ Master System Design  
-✅ Contribute to Open Source  
-✅ Build Production-Ready Apps
+<br>
+
+### 🎯 **2024 Goals**
+
+- ✅ <img src="https://img.shields.io/badge/Master-System_Design-00D9FF?style=flat" />
+- ✅ <img src="https://img.shields.io/badge/Contribute-Open_Source-00C7B7?style=flat" />
+- ✅ <img src="https://img.shields.io/badge/Build-Production_Apps-38BDF8?style=flat" />
 
 </td>
 </tr>
@@ -56,16 +78,18 @@ Full-Stack Developer and CS Engineering student passionate about building impact
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🛠️ **Tech Stack at a Glance**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
