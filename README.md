@@ -82,7 +82,7 @@ A comprehensive visitor and parcel management platform designed for secure commu
 </td>
 <td width="50%">
 
-### 🍱 Athithigruha Foods
+### 🍱 Andhra Foods
 **E-commerce Platform**
 
 Digital storefront for authentic food business featuring product showcase, categorization, and responsive design.
