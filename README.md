@@ -51,6 +51,30 @@ console.log(developer.codePhilosophy());
 // Output: ✨ Code with purpose, build with passion, innovate with vision ✨
 ```
 
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+**🎨 Code Highlights:**
+- <img src="https://img.shields.io/badge/Name-Kemisetty%20Prem%20Srinivas-FF6B6B?style=flat-square" />
+- <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer%20💻-4ECDC4?style=flat-square" />
+- <img src="https://img.shields.io/badge/Education-CS%20Engineering%20🎓-95E1D3?style=flat-square" />
+- <img src="https://img.shields.io/badge/Location-India%20🇮🇳-F38181?style=flat-square" />
+
+</td>
+<td>
+
+**🚀 Currently Working On:**
+- <img src="https://img.shields.io/badge/🛡️-SafeGate%20Platform-AA96DA?style=flat-square" />
+- <img src="https://img.shields.io/badge/🏗️-System%20Design-FCBAD3?style=flat-square" />
+- <img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-FFFFD2?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
