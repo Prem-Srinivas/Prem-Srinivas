@@ -1,192 +1,303 @@
 <div align="center">
 
-# 👋 Hi, I'm Kemisetty Prem Srinivas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kemisetty%20Prem%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### Full-Stack Developer | Computer Science Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%7C+CS+Engineering+Student;Crafting+Digital+Experiences+%7C+Building+Scalable+Solutions" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Exploring+Modern+Tech+Stacks" alt="Typing SVG" />
+<p align="center">
+  <a href="https://prem-srinivas.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
-## 🚀 About Me
+```typescript
+class Developer {
+  name: string = "Kemisetty Prem Srinivas";
+  role: string = "Full-Stack Developer";
+  education: string = "Computer Science Engineering";
+  location: string = "India 🇮🇳";
+  
+  currentFocus: string[] = [
+    "Building SafeGate - Enterprise Security Platform",
+    "Mastering System Design & Architecture",
+    "Exploring Cloud Technologies & DevOps"
+  ];
+  
+  interests: string[] = ["Web3", "AI/ML", "Open Source", "Tech Innovation"];
+  
+  lifePhilosophy(): string {
+    return "Code with purpose, build with passion, innovate with vision";
+  }
+}
+```
 
-I'm a **Computer Science Engineering student** passionate about creating impactful digital solutions. I specialize in full-stack development with a focus on modern web technologies, clean architecture, and exceptional user experiences.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 Currently working on **SafeGate** - Enterprise security management system
-- 🌱 Learning **Advanced System Design** and **Cloud Architecture**
-- 💡 Interested in **Web3**, **AI Integration**, and **DevOps**
-- 🎯 Goal: Build products that solve real-world problems
-- � Reach me at: **[prem-srinivas.vercel.app](https://prem-srinivas.vercel.app/)**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Tech Arsenal**
 
----
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-## �️ Tech Stack
-
-<div align="center">
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Backend & Database
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### Tools & Platforms
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## � GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Srinivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Srinivas&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Srinivas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prem-Srinivas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Srinivas&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </div>
 
----
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Srinivas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Srinivas&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" />
+</div>
 
-## 🏆 Featured Projects
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prem-Srinivas&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **Featured Projects**
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ SafeGate
-**Enterprise Security Management System**
+### 🛡️ **SafeGate**
+<img src="https://img.shields.io/badge/Enterprise-Security-FF6B6B?style=for-the-badge" />
 
-A comprehensive visitor and parcel management platform designed for secure communities with real-time tracking and authentication.
+> **Premium Visitor & Parcel Management System**
 
-**Tech Stack:** React, TypeScript, Node.js, Tailwind CSS
+A comprehensive security platform designed for high-end communities featuring real-time tracking, authentication, and automated workflows.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas)
+**🔧 Tech Stack:**
+- React + TypeScript
+- Node.js + Express
+- Tailwind CSS
+- MongoDB
+
+**✨ Key Features:**
+- Real-time visitor tracking
+- Entry/Exit automation
+- Secure authentication
+- Admin dashboard
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍱 Andhra Foods
-**E-commerce Platform**
+### 🍱 **Athithigruha Foods**
+<img src="https://img.shields.io/badge/E--commerce-Platform-4ECDC4?style=for-the-badge" />
 
-Digital storefront for authentic food business featuring product showcase, categorization, and responsive design.
+> **Authentic Food Business Digital Storefront**
 
-**Tech Stack:** React, HTML, CSS, Vercel
+Modern e-commerce platform showcasing traditional delicacies with seamless shopping experience and responsive design.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas/Andhra_foods)
+**🔧 Tech Stack:**
+- React
+- HTML5 + CSS3
+- Responsive Design
+- Vercel Deployment
+
+**✨ Key Features:**
+- Product categorization
+- Responsive UI/UX
+- Fast performance
+- SEO optimized
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/Andhra_foods)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 RideMate
-**Ride Sharing Platform**
+### 🚗 **RideMate**
+<img src="https://img.shields.io/badge/Ride--Sharing-Platform-95E1D3?style=for-the-badge" />
 
-Modern ride-sharing solution connecting drivers and passengers with real-time location tracking.
+> **Modern Carpooling Solution**
 
-**Tech Stack:** React, Node.js, MongoDB
+Innovative ride-sharing platform connecting drivers and passengers with real-time location tracking and smart matching algorithms.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas/RideMate)
+**🔧 Tech Stack:**
+- React
+- Node.js
+- MongoDB
+- Google Maps API
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/RideMate)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### � DialGuard
-**Communication Security**
+### 📞 **DialGuard**
+<img src="https://img.shields.io/badge/Communication-Security-F38181?style=for-the-badge" />
 
-Advanced call management and security application with spam detection capabilities.
+> **Advanced Call Management System**
 
-**Tech Stack:** TypeScript, React
+Intelligent call security application with spam detection, call blocking, and contact management capabilities.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas/dialguard)
+**🔧 Tech Stack:**
+- TypeScript
+- React
+- Security APIs
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/dialguard)
+
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🗳️ Online Voting System
-**Democratic Digital Platform**
+### 🗳️ **Online Voting System**
+<img src="https://img.shields.io/badge/Democratic-Platform-AA96DA?style=for-the-badge" />
 
-Secure online voting platform with authentication and real-time result tracking.
+> **Secure Digital Voting Solution**
 
-**Tech Stack:** Full-Stack Application
+Blockchain-inspired voting platform ensuring transparency, security, and real-time result tracking for democratic processes.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas/online-voting-system-)
+**🔧 Tech Stack:**
+- Full-Stack Application
+- Secure Authentication
+- Real-time Updates
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/online-voting-system-)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Company Management
-**Business Operations Platform**
+### 🏢 **Company Management**
+<img src="https://img.shields.io/badge/Business-Operations-FCBAD3?style=for-the-badge" />
 
-Comprehensive company management system for streamlining business operations.
+> **Enterprise Management Platform**
 
-**Tech Stack:** TypeScript, React
+Comprehensive business operations system streamlining workflows, employee management, and organizational processes.
 
-🔗 [View Repository](https://github.com/Prem-Srinivas/company)
+**🔧 Tech Stack:**
+- TypeScript
+- React
+- Modern UI/UX
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/company)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎯 Current Focus
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```javascript
-const currentFocus = {
-  learning: ["System Design", "Cloud Architecture", "Web3"],
-  building: ["SafeGate Platform", "Portfolio Projects"],
-  exploring: ["AI Integration", "Microservices", "DevOps"],
-  improving: ["Code Quality", "Performance Optimization"]
-};
-```
-
----
-
-## 📫 Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> **Connect With Me**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prem-srinivas.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&labelColor=000000)](https://prem-srinivas.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 **Developer Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Prem-Srinivas&color=0e75b6&style=flat)
+### 📊 **Profile Insights**
+![Profile Views](https://komarev.com/ghpvc/?username=Prem-Srinivas&label=Profile%20Views&color=F85D7F&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Prem-Srinivas?label=Followers&style=for-the-badge&color=F8D866)
+![GitHub Stars](https://img.shields.io/github/stars/Prem-Srinivas?label=Stars&style=for-the-badge&color=4ECDC4)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**⭐ From [Prem-Srinivas](https://github.com/Prem-Srinivas) | Building the future, one commit at a time**
+### 🐍 **Contribution Graph**
+![Snake animation](https://raw.githubusercontent.com/Prem-Srinivas/Prem-Srinivas/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐ From [Prem-Srinivas](https://github.com/Prem-Srinivas) | Transforming Ideas into Reality, One Line of Code at a Time 🚀**
 
 </div>
