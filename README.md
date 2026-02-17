@@ -182,7 +182,7 @@ Premium visitor & parcel management system for secure communities.
 </td>
 <td width="50%" valign="top">
 
-### 🍱 **Athithigruha Foods**
+### 🍱 **Andhra Foods**
 <img src="https://img.shields.io/badge/E--commerce-Platform-4ECDC4?style=flat-square" />
 
 Digital storefront for authentic food business.
@@ -278,11 +278,5 @@ Enterprise management platform.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🐍 **Contribution Graph**
-![Snake animation](https://raw.githubusercontent.com/Prem-Srinivas/Prem-Srinivas/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**⭐ From [Prem-Srinivas](https://github.com/Prem-Srinivas) | Transforming Ideas into Reality, One Line of Code at a Time 🚀**
 
 </div>
