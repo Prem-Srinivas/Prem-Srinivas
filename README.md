@@ -32,8 +32,8 @@ Results-driven **Computer Science Engineering Student** with a focus on building
 ## 📈 Engineering Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Srinivas&show_icons=true&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Srinivas&layout=compact&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide_border=true" />
 </p>
 
 ---
