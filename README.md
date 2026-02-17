@@ -18,38 +18,7 @@
 
 <div align="center">
 
-```typescript
-const developer = {
-  name: "Kemisetty Prem Srinivas",
-  title: "Full-Stack Developer 💻",
-  education: "Computer Science Engineering 🎓",
-  location: "India 🇮🇳",
-  
-  currentlyWorkingOn: [
-    "🛡️ SafeGate - Enterprise Security Platform",
-    "🏗️ Mastering System Design & Architecture", 
-    "☁️ Exploring Cloud Technologies & DevOps"
-  ],
-  
-  passionateAbout: ["🌐 Web3", "🤖 AI/ML", "🔓 Open Source", "💡 Tech Innovation"],
-  
-  codePhilosophy: () => {
-    return "✨ Code with purpose, build with passion, innovate with vision ✨";
-  },
-  
-  dailyRoutine: {
-    morning: "☕ Coffee + Code",
-    afternoon: "🚀 Build & Deploy",
-    evening: "📚 Learn & Explore",
-    night: "💭 Dream in Code"
-  },
-  
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
 
-console.log(developer.codePhilosophy());
-// Output: ✨ Code with purpose, build with passion, innovate with vision ✨
-```
 
 <br>
 
