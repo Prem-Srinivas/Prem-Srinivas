@@ -18,7 +18,38 @@
 
 <div align="center">
 
+```typescript
+const developer = {
+  name: "Kemisetty Prem Srinivas",
+  title: "Full-Stack Developer 💻",
+  education: "Computer Science Engineering 🎓",
+  location: "India 🇮🇳",
+  
+  currentlyWorkingOn: [
+    "🛡️ SafeGate - Enterprise Security Platform",
+    "🏗️ Mastering System Design & Architecture", 
+    "☁️ Exploring Cloud Technologies & DevOps"
+  ],
+  
+  passionateAbout: ["🌐 Web3", "🤖 AI/ML", "🔓 Open Source", "💡 Tech Innovation"],
+  
+  codePhilosophy: () => {
+    return "✨ Code with purpose, build with passion, innovate with vision ✨";
+  },
+  
+  dailyRoutine: {
+    morning: "☕ Coffee + Code",
+    afternoon: "🚀 Build & Deploy",
+    evening: "📚 Learn & Explore",
+    night: "💭 Dream in Code"
+  },
+  
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 
+console.log(developer.codePhilosophy());
+// Output: ✨ Code with purpose, build with passion, innovate with vision ✨
+```
 
 <br>
 
@@ -136,59 +167,25 @@
 <td width="50%" valign="top">
 
 ### 🛡️ **SafeGate**
-<img src="https://img.shields.io/badge/Enterprise-Security-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enterprise-Security-FF6B6B?style=flat-square" />
 
-> **Premium Visitor & Parcel Management System**
+Premium visitor & parcel management system for secure communities.
 
-A comprehensive security platform designed for high-end communities featuring real-time tracking, authentication, and automated workflows.
+**Stack:** React, TypeScript, Node.js, Tailwind CSS
 
-**🔧 Tech Stack:**
-- React + TypeScript
-- Node.js + Express
-- Tailwind CSS
-- MongoDB
-
-**✨ Key Features:**
-- Real-time visitor tracking
-- Entry/Exit automation
-- Secure authentication
-- Admin dashboard
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍱 **Athithigruha Foods**
-<img src="https://img.shields.io/badge/E--commerce-Platform-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/E--commerce-Platform-4ECDC4?style=flat-square" />
 
-> **Authentic Food Business Digital Storefront**
+Digital storefront for authentic food business.
 
-Modern e-commerce platform showcasing traditional delicacies with seamless shopping experience and responsive design.
+**Stack:** React, HTML5, CSS3, Vercel
 
-**🔧 Tech Stack:**
-- React
-- HTML5 + CSS3
-- Responsive Design
-- Vercel Deployment
-
-**✨ Key Features:**
-- Product categorization
-- Responsive UI/UX
-- Fast performance
-- SEO optimized
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/Andhra_foods)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/Andhra_foods)
 
 </td>
 </tr>
@@ -197,44 +194,25 @@ Modern e-commerce platform showcasing traditional delicacies with seamless shopp
 <td width="50%" valign="top">
 
 ### 🚗 **RideMate**
-<img src="https://img.shields.io/badge/Ride--Sharing-Platform-95E1D3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ride--Sharing-Platform-95E1D3?style=flat-square" />
 
-> **Modern Carpooling Solution**
+Modern carpooling solution with real-time tracking.
 
-Innovative ride-sharing platform connecting drivers and passengers with real-time location tracking and smart matching algorithms.
+**Stack:** React, Node.js, MongoDB
 
-**🔧 Tech Stack:**
-- React
-- Node.js
-- MongoDB
-- Google Maps API
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/RideMate)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/RideMate)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📞 **DialGuard**
-<img src="https://img.shields.io/badge/Communication-Security-F38181?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Communication-Security-F38181?style=flat-square" />
 
-> **Advanced Call Management System**
+Call security app with spam detection.
 
-Intelligent call security application with spam detection, call blocking, and contact management capabilities.
+**Stack:** TypeScript, React
 
-**🔧 Tech Stack:**
-- TypeScript
-- React
-- Security APIs
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/dialguard)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/dialguard)
 
 </td>
 </tr>
@@ -243,43 +221,25 @@ Intelligent call security application with spam detection, call blocking, and co
 <td width="50%" valign="top">
 
 ### 🗳️ **Online Voting System**
-<img src="https://img.shields.io/badge/Democratic-Platform-AA96DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Democratic-Platform-AA96DA?style=flat-square" />
 
-> **Secure Digital Voting Solution**
+Secure digital voting with real-time results.
 
-Blockchain-inspired voting platform ensuring transparency, security, and real-time result tracking for democratic processes.
+**Stack:** Full-Stack, Authentication
 
-**🔧 Tech Stack:**
-- Full-Stack Application
-- Secure Authentication
-- Real-time Updates
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/online-voting-system-)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/online-voting-system-)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 **Company Management**
-<img src="https://img.shields.io/badge/Business-Operations-FCBAD3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business-Operations-FCBAD3?style=flat-square" />
 
-> **Enterprise Management Platform**
+Enterprise management platform.
 
-Comprehensive business operations system streamlining workflows, employee management, and organizational processes.
+**Stack:** TypeScript, React
 
-**🔧 Tech Stack:**
-- TypeScript
-- React
-- Modern UI/UX
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/company)
-
-</div>
+[![View](https://img.shields.io/badge/View-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Prem-Srinivas/company)
 
 </td>
 </tr>
