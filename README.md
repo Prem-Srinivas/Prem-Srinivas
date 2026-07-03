@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED WAVE BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ HERO BANNER ══════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kemisetty%20Prem%20Srinivas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast&descAlignY=58&descSize=20&descColor=c9d1d9"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════ TYPING ANIMATION ════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;Prompt+Engineer+%F0%9F%A7%A0;Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Building+Scalable+AI+Applications+%F0%9F%8F%97%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Research+Author+%F0%9F%93%84+%E2%80%94+AIMLA+2026" alt="Typing SVG"/>
@@ -16,22 +12,20 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      SOCIAL BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ SOCIAL BADGES ════════════════════════════════════ -->
 
 <p>
   <a href="https://prem-srinivas.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/prem-srinivas-3176272b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/Prem-Srinivas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:pream4227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -42,13 +36,15 @@
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ ABOUT ME ════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,100:a855f7&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=22&fontColor=A855F7&fontAlignY=75&desc=Who%20I%20Am%20%26%20What%20I%20Do&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <table width="100%">
 <tr>
@@ -68,12 +64,12 @@ Status    : Open to Opportunities 🚀
 
 <br/>
 
-🎓 &nbsp; **B.Tech CSE Graduate** — Vel Tech University  
-☁️ &nbsp; **Oracle OCI Certified** — GenAI Professional  
-💻 &nbsp; **Full Stack Dev** — React · Angular · Node · Flask  
-🤖 &nbsp; **AI/ML Engineer** — YOLOv8 · LLMs · Prompt Eng.  
-📄 &nbsp; **Research Author** — Presented at AIMLA 2026  
-🌱 &nbsp; Currently exploring **AI Agents & MCP**  
+🎓 &nbsp; **B.Tech CSE Graduate** — Vel Tech University
+☁️ &nbsp; **Oracle OCI Certified** — GenAI Professional
+💻 &nbsp; **Full Stack Dev** — React · Angular · Node · Flask
+🤖 &nbsp; **AI/ML Engineer** — YOLOv8 · LLMs · Prompt Eng.
+📄 &nbsp; **Research Author** — Presented at AIMLA 2026
+🌱 &nbsp; Currently exploring **AI Agents & MCP**
 
 </td>
 <td width="50%" valign="top">
@@ -92,22 +88,24 @@ Status    : Open to Opportunities 🚀
 
 <br/>
 
-⚡ **Fun Fact:** I turn caffeine ☕ into code and ideas into intelligent systems 🤖  
-🥈 **State Level** — 24-Hour Full Stack Dev Competition Runner-up  
-🎤 **Research Presenter** — AIMLA 2026 International Conference  
-🛠️ **10+ Projects** built across AI, Web & Cloud domains  
+⚡ **Fun Fact:** I turn caffeine ☕ into code and intelligent systems 🤖
+🥈 **State Level** — 24-Hour Full Stack Dev Competition Runner-up
+🎤 **Research Presenter** — AIMLA 2026 International Conference
+🛠️ **10+ Projects** built across AI, Web & Cloud domains
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED CERTIFICATIONS                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════ FEATURED CERTIFICATIONS ════════════════════════════════ -->
 
-## 🏆 Featured Certifications
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:ef4444&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%8F%86%20Featured%20Certifications&fontSize=22&fontColor=F59E0B&fontAlignY=75&desc=12%20Industry%20Certifications&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
@@ -128,20 +126,21 @@ Status    : Open to Opportunities 🚀
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ FEATURED PROJECTS ══════════════════════════════════ -->
 
-## 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%9A%80%20Featured%20Projects&fontSize=22&fontColor=06B6D4&fontAlignY=75&desc=10%20Projects%20%E2%80%94%20AI%20%C2%B7%20Full%20Stack%20%C2%B7%20Cloud&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
 
-<!-- PROJECT 1 -->
 <td width="50%" valign="top">
 
 ### 🚦 AI Traffic Violation Detection
@@ -154,12 +153,11 @@ Detects helmet violations, triple riding & license plates from live traffic feed
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-00BCD4?style=flat-square)
 
-> 📊 92% mAP &nbsp;•&nbsp; 95% OCR Accuracy &nbsp;•&nbsp; 350K+ Frames  
+> 📊 92% mAP &nbsp;•&nbsp; 95% OCR Accuracy &nbsp;•&nbsp; 350K+ Frames
 > ⭐ **Research Paper @ AIMLA 2026**
 
 </td>
 
-<!-- PROJECT 2 -->
 <td width="50%" valign="top">
 
 ### 🛡️ SafeGate
@@ -172,20 +170,19 @@ Enterprise-grade security platform with role-based portals for residents and sec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-> 🔐 JWT Auth &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Analytics Dashboard  
+> 🔐 JWT Auth &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Analytics Dashboard
 > ⭐ **Enterprise-Grade Project**
 
 </td>
 </tr>
 
 <tr>
-<!-- PROJECT 3 -->
 <td width="50%" valign="top">
 
 ### 🚑 AI Ambulance Booking System
 > **AI-enabled Emergency Response Platform**
 
-Smart ambulance booking with AI-driven suggestions, emergency chatbot assistance, real-time status tracking, and callback request management.
+Smart ambulance booking with AI-driven suggestions, emergency chatbot, real-time status tracking, and callback request management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -193,18 +190,17 @@ Smart ambulance booking with AI-driven suggestions, emergency chatbot assistance
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> 🤖 AI Suggestions &nbsp;•&nbsp; Emergency Chatbot &nbsp;•&nbsp; Real-time Tracking  
+> 🤖 AI Suggestions &nbsp;•&nbsp; Emergency Chatbot &nbsp;•&nbsp; Real-time
 > ⭐ **Emergency Tech · Healthcare AI**
 
 </td>
 
-<!-- PROJECT 4 -->
 <td width="50%" valign="top">
 
 ### 🍱 Andhra Foods
 > **E-Commerce Platform for Traditional Andhra Cuisine**
 
-Full-featured e-commerce platform celebrating Andhra food culture with product catalog, PhonePe payment integration, shopping cart, and an admin dashboard.
+Full-featured e-commerce platform with product catalog, PhonePe payment integration, shopping cart, and admin dashboard.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -212,50 +208,47 @@ Full-featured e-commerce platform celebrating Andhra food culture with product c
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> 💳 PhonePe Payments &nbsp;•&nbsp; Cart System &nbsp;•&nbsp; Admin Panel  
+> 💳 PhonePe Payments &nbsp;•&nbsp; Cart &nbsp;•&nbsp; Admin Panel
 > ⭐ **Full Stack E-Commerce**
 
 </td>
 </tr>
 
 <tr>
-<!-- PROJECT 5 -->
 <td width="50%" valign="top">
 
 ### 💰 Bayes Budget Buddy
 > **AI-Powered Personal Finance & Expense Tracker**
 
-Intelligent expense tracker using Naive Bayes ML to auto-categorize transactions, visualize spending patterns, and deliver smart budget insights.
+Intelligent expense tracker using Naive Bayes ML to auto-categorize transactions and deliver smart budget insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-FF6F00?style=flat-square)
 
-> 🧠 Naive Bayes ML &nbsp;•&nbsp; Auto-Categorization &nbsp;•&nbsp; Analytics  
+> 🧠 Naive Bayes ML &nbsp;•&nbsp; Auto-Categorization &nbsp;•&nbsp; Analytics
 > ⭐ **AI Finance · Smart Budgeting**
 
 </td>
 
-<!-- PROJECT 6 -->
 <td width="50%" valign="top">
 
 ### 🚗 RideMate
 > **Modern Ride-Booking & Carpooling UI**
 
-Clean, modern ride-booking interface with ride scheduling, interactive maps, and a polished user experience built with React and TypeScript.
+Clean, modern ride-booking interface with ride scheduling, interactive maps, and polished UX built with React and TypeScript.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-> 🗺️ Maps Integration &nbsp;•&nbsp; Ride Booking &nbsp;•&nbsp; Clean UI  
+> 🗺️ Maps Integration &nbsp;•&nbsp; Ride Booking &nbsp;•&nbsp; Clean UI
 > ⭐ **Mobility Tech · React + TypeScript**
 
 </td>
 </tr>
 
 <tr>
-<!-- PROJECT 7 -->
 <td width="50%" valign="top">
 
 ### 🎬 Movie Search App
@@ -267,57 +260,54 @@ Search and discover movies using the OMDb API with smart filters, favorites list
 ![REST API](https://img.shields.io/badge/OMDb%20API-00BCD4?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> 🔍 Search &nbsp;•&nbsp; Favorites &nbsp;•&nbsp; Movie Details  
+> 🔍 Search &nbsp;•&nbsp; Favorites &nbsp;•&nbsp; Movie Details
 > ⭐ **Entertainment · OMDb API Integration**
 
 </td>
 
-<!-- PROJECT 8 -->
 <td width="50%" valign="top">
 
 ### 🗳️ Online Voting System
 > **Secure Digital Voting Platform**
 
-End-to-end voting system with secure admin and voter portals, candidate management, and live real-time results display.
+End-to-end voting system with secure admin and voter portals, candidate management, and live real-time results.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> 🔐 Secure Auth &nbsp;•&nbsp; Candidate Mgmt &nbsp;•&nbsp; Live Results  
+> 🔐 Secure Auth &nbsp;•&nbsp; Candidate Mgmt &nbsp;•&nbsp; Live Results
 > ⭐ **Civic Tech · Secure Voting**
 
 </td>
 </tr>
 
 <tr>
-<!-- PROJECT 9 -->
 <td width="50%" valign="top">
 
 ### 📞 DialGuard
 > **AI-Powered Spam Call Detection**
 
-Intelligent call screening app that uses ML classifiers to detect and flag spam/scam calls in real-time before they reach the user.
+Intelligent call screening app that uses ML classifiers to detect and flag spam/scam calls in real-time.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-> 🛡️ ML Classification &nbsp;•&nbsp; Real-time Detection &nbsp;•&nbsp; Spam Guard  
+> 🛡️ ML Classification &nbsp;•&nbsp; Real-time Detection
 > ⭐ **Security AI · Call Protection**
 
 </td>
 
-<!-- PROJECT 10 -->
 <td width="50%" valign="top">
 
 ### 🏢 Company Management System
 > **Enterprise HR & Business Operations Portal**
 
-Comprehensive company management application for handling employee records, departments, and business operations efficiently.
+Comprehensive company management application for employee records, departments, and business operations.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-> 👥 Employee Records &nbsp;•&nbsp; Department Mgmt &nbsp;•&nbsp; Operations  
+> 👥 Employee Records &nbsp;•&nbsp; Department Mgmt &nbsp;•&nbsp; Operations
 > ⭐ **Enterprise · HR Management**
 
 </td>
@@ -326,13 +316,15 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:06b6d4&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=10B981&fontAlignY=75&desc=Languages%20%C2%B7%20Frameworks%20%C2%B7%20Databases%20%C2%B7%20AI%20%C2%B7%20Tools&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
@@ -357,7 +349,6 @@ Comprehensive company management application for handling employee records, depa
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -384,13 +375,15 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      CLOUD & AI SERVICES                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════ CLOUD & AI ═════════════════════════════════════════ -->
 
-## ☁️ Cloud & AI Services
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f80000,100:f59e0b&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%E2%98%81%EF%B8%8F%20Cloud%20%26%20AI%20Services&fontSize=22&fontColor=F59E0B&fontAlignY=75&desc=Oracle%20OCI%20%C2%B7%20Vercel%20%C2%B7%20Claude%20%C2%B7%20Gemini%20%C2%B7%20Hugging%20Face&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
@@ -403,13 +396,15 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════ GITHUB ANALYTICS ════════════════════════════════════ -->
 
-## 📈 GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,100:a855f7&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%93%88%20GitHub%20Analytics&fontSize=22&fontColor=A855F7&fontAlignY=75&desc=Stats%20%C2%B7%20Languages%20%C2%B7%20Streak&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
@@ -430,39 +425,45 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════ CONTRIBUTION GRAPH ══════════════════════════════════════ -->
 
-## 🔥 Contribution Graph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,100:f97316&height=4"/>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%94%A5%20Contribution%20Graph&fontSize=22&fontColor=F97316&fontAlignY=75&desc=Daily%20Coding%20Activity%20%26%20Commits&descAlignY=120&descSize=13&descColor=8b949e"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Srinivas&custom_title=Prem%20Srinivas's%20Contribution%20Graph&bg_color=0d1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7&hide_border=false&border_color=30363d&radius=12" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prem-Srinivas&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Srinivas&custom_title=Prem%20Srinivas%27s%20Contribution%20Graph&bg_color=0d1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7&hide_border=false&border_color=30363d&radius=12" alt="Contribution Graph"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   PROFILE SUMMARY CARD                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════ GITHUB TROPHIES ═══════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fbbf24&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%8F%85%20GitHub%20Trophies&fontSize=22&fontColor=F59E0B&fontAlignY=75&desc=Milestones%20%26%20Achievements%20on%20GitHub&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prem-Srinivas&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prem-Srinivas&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2" alt="GitHub Trophies Extended"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════ PROFILE SUMMARY ════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -470,13 +471,15 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      RESEARCH PAPER                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════ RESEARCH PAPER ═════════════════════════════════════════ -->
 
-## 📚 Research Paper
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:0ea5e9&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%93%9A%20Research%20Paper&fontSize=22&fontColor=06B6D4&fontAlignY=75&desc=AIMLA%202026%20%E2%80%94%20International%20Conference&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
@@ -508,114 +511,94 @@ Comprehensive company management application for handling employee records, depa
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Research](https://img.shields.io/badge/📄%20Research%20Paper-A855F7?style=for-the-badge&logoColor=white)](https://github.com/Prem-Srinivas)
+[![Research Paper](https://img.shields.io/badge/📄%20Research%20Paper-A855F7?style=for-the-badge&logoColor=white)](https://github.com/Prem-Srinivas)
 [![Conference](https://img.shields.io/badge/🎤%20AIMLA%202026-0077B5?style=for-the-badge&logoColor=white)](https://github.com/Prem-Srinivas)
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ ACHIEVEMENTS ════════════════════════════════════════ -->
 
-## 🏆 Achievements
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%8F%86%20Achievements&fontSize=22&fontColor=EC4899&fontAlignY=75&desc=Awards%20%C2%B7%20Certifications%20%C2%B7%20Milestones&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
   <td align="center" width="190">
-    <h2>🥈</h2>
+    <img src="https://img.shields.io/badge/🥈-State%20Level-silver?style=for-the-badge" /><br/><br/>
     <b>State Level Runner-up</b><br/>
     <sub>24-Hour Full Stack Dev<br/>Competition</sub>
   </td>
   <td align="center" width="190">
-    <h2>🎤</h2>
+    <img src="https://img.shields.io/badge/🎤-AIMLA%202026-06B6D4?style=for-the-badge" /><br/><br/>
     <b>Research Presenter</b><br/>
-    <sub>AIMLA 2026<br/>International Conference</sub>
+    <sub>International Conference</sub>
   </td>
   <td align="center" width="190">
-    <h2>🏆</h2>
+    <img src="https://img.shields.io/badge/☁️-Oracle%20OCI-F80000?style=for-the-badge" /><br/><br/>
     <b>Oracle OCI Certified</b><br/>
     <sub>GenAI Professional<br/>& AI Foundations</sub>
   </td>
   <td align="center" width="190">
-    <h2>🤖</h2>
+    <img src="https://img.shields.io/badge/🤖-Anthropic-CC785C?style=for-the-badge" /><br/><br/>
     <b>Anthropic Certified</b><br/>
-    <sub>Claude API<br/>& MCP</sub>
+    <sub>Claude API & MCP</sub>
   </td>
   <td align="center" width="190">
-    <h2>🚀</h2>
+    <img src="https://img.shields.io/badge/🚀-10%2B%20Projects-A855F7?style=for-the-badge" /><br/><br/>
     <b>10+ Projects Built</b><br/>
-    <sub>AI · Full Stack<br/>· Cloud</sub>
+    <sub>AI · Full Stack · Cloud</sub>
   </td>
 </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CODING PROFILES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════ CODING PROFILES ═══════════════════════════════════════ -->
 
-## 💻 Coding Profiles
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,100:339933&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%92%BB%20Coding%20Profiles&fontSize=22&fontColor=FFA116&fontAlignY=75&desc=LeetCode%20%C2%B7%20HackerRank%20%C2%B7%20CodeChef%20%C2%B7%20GFG&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
 <a href="https://leetcode.com/Prem-Srinivas" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>&nbsp;
 <a href="https://www.hackerrank.com/Prem-Srinivas" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>&nbsp;
 <a href="https://github.com/Prem-Srinivas" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
 <a href="https://www.codechef.com/users/Prem-Srinivas" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>&nbsp;
 <a href="https://www.geeksforgeeks.org/user/Prem-Srinivas" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-> 💡 *"I'm always open to exciting collaborations, AI research, and impactful full-stack projects!"*
 
 <br/>
 
-<a href="https://prem-srinivas.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-A855F7?style=for-the-badge"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/prem-srinivas-3176272b4" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge"/>
-</a>&nbsp;
-<a href="mailto:pream4227@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧%20Email-pream4227%40gmail.com-D14836?style=for-the-badge"/>
-</a>
+<!-- ═════════════════════════════════ METRICS AT A GLANCE ═══════════════════════════════════ -->
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:06b6d4&height=4"/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%93%8A%20Metrics%20at%20a%20Glance&fontSize=22&fontColor=10B981&fontAlignY=75&desc=Key%20Numbers%20%26%20Highlights&descAlignY=120&descSize=13&descColor=8b949e"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               METRICS AT A GLANCE — PROFESSIONAL                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📊 Metrics at a Glance
+<br/>
 
 <div align="center">
 
@@ -652,35 +635,40 @@ Comprehensive company management application for handling employee records, depa
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   INSPIRATIONAL QUOTE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ CONNECT ═══════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0077b5,100:a855f7&height=4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&text=%20%20%20%F0%9F%93%AC%20Let%27s%20Connect!&fontSize=22&fontColor=0077B5&fontAlignY=75&desc=Open%20to%20Collaborations%20%C2%B7%20AI%20Research%20%C2%B7%20Full%20Stack%20Projects&descAlignY=120&descSize=13&descColor=8b949e"/>
+
+<br/>
 
 <div align="center">
 
-<br/>
-
-> *"The best way to predict the future is to invent it."*
-> — **Alan Kay**
+> 💡 *"I'm always open to exciting collaborations, AI research, and impactful full-stack projects!"*
 
 <br/>
+
+<a href="https://prem-srinivas.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-A855F7?style=for-the-badge"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/prem-srinivas-3176272b4" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge"/>
+</a>&nbsp;
+<a href="mailto:pream4227@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧%20Email-pream4227%40gmail.com-D14836?style=for-the-badge"/>
+</a>
+
+<br/><br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+
 <br/>
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<!-- ════════════════════════════════ FOOTER WAVE BANNER ══════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
-
-</div>
