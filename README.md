@@ -612,49 +612,66 @@ Comprehensive company management application for handling employee records, depa
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                             -->
+<!--               METRICS AT A GLANCE — PROFESSIONAL                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+## 📊 Metrics at a Glance
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Prem-Srinivas/Prem-Srinivas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Prem-Srinivas/Prem-Srinivas/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/Prem-Srinivas/Prem-Srinivas/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<table>
+<tr>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Projects%20Built-10%2B-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Certifications-12-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Research%20Papers-1-00BCD4?style=for-the-badge&logo=arxiv&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/mAP%20Score-92%25-2F8D46?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Languages-7%2B-F7931E?style=for-the-badge&logo=code&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Frameworks-10%2B-DD0031?style=for-the-badge&logo=stackshare&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Conference-AIMLA%202026-CC785C?style=for-the-badge&logo=academia&logoColor=white"/>
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/Open%20Source-Active-339933?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  </td>
+</tr>
+</table>
 
 </div>
 
-> ⚙️ **Note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo:
-> `.github/workflows/snake.yml`
->
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Prem-Srinivas
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   INSPIRATIONAL QUOTE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+</div>
 
 ---
 
